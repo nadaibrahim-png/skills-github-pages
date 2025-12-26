@@ -37,7 +37,13 @@ Based on the scatter plot above, we can observe several key insights:
 ## 🛠️ Technical Skills
 * **Languages:** Python (Pandas, NumPy, Seaborn), SQL
 * **Tools:** GitHub Codespaces, Google Colab, Eurostat API
-* [Why I Use GitHub for Technical Writing](link-to-essay-later)
+* [Why I Use GitHub for Technical Writing](link-to-essay-later)<details>
+<summary><b>Click to see the Python Code used for this analysis</b></summary>
+
+```python
+import eurostat
+import pandas as pd
+# (Paste your cleaning and merging code here)
 
 ## 🛠️ Projects
 * **Project 1:** An analysis of global weather patterns using Python.
